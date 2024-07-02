@@ -1764,7 +1764,7 @@
         "version": "20.4.177"
     },
     {
-        "installer_sha1": "fee9fa9212f391277f4490aa31226c2535da44f5",
+        "installer_sha1": null,
         "installer_size": 6428164,
         "latest": false,
         "mc_version": "1.20.4",
@@ -1834,7 +1834,7 @@
         "version": "20.4.187"
     },
     {
-        "installer_sha1": "1db10f99051b0e81045279fbfc14e6b5ac7b090e",
+        "installer_sha1": null,
         "installer_size": 6428450,
         "latest": false,
         "mc_version": "1.20.4",
@@ -1848,21 +1848,21 @@
         "version": "20.4.189"
     },
     {
-        "installer_sha1": "795ddffe4a69a67e51ba0ed164441d7c6aab4e5c",
+        "installer_sha1": null,
         "installer_size": 6422770,
         "latest": false,
         "mc_version": "1.20.4",
         "version": "20.4.190"
     },
     {
-        "installer_sha1": "bf878c69b5c3b507013f330ef97fac83812c857e",
+        "installer_sha1": null,
         "installer_size": 6422771,
         "latest": false,
         "mc_version": "1.20.4",
         "version": "20.4.191"
     },
     {
-        "installer_sha1": "de4e9d5bddb394e236977253e46a5c9ffb30e854",
+        "installer_sha1": null,
         "installer_size": 6422777,
         "latest": false,
         "mc_version": "1.20.4",
@@ -1911,7 +1911,7 @@
         "version": "20.4.198"
     },
     {
-        "installer_sha1": "7acf323bb18491e8299c0f02c9eb9b1d2b3e34aa",
+        "installer_sha1": null,
         "installer_size": 6424201,
         "latest": false,
         "mc_version": "1.20.4",
@@ -1953,7 +1953,7 @@
         "version": "20.4.204"
     },
     {
-        "installer_sha1": "adb7a59f7e0497b9d9d241a585d779a297daf66b",
+        "installer_sha1": null,
         "installer_size": 6425067,
         "latest": false,
         "mc_version": "1.20.4",
@@ -2009,7 +2009,7 @@
         "version": "20.4.212"
     },
     {
-        "installer_sha1": "d3ed4a45b8d68ed2eba1a484df7db05426cd2dca",
+        "installer_sha1": null,
         "installer_size": 6425836,
         "latest": false,
         "mc_version": "1.20.4",
@@ -2114,7 +2114,7 @@
         "version": "20.4.228"
     },
     {
-        "installer_sha1": "19b8d5771bc52fab45b695d55b2327f902329a55",
+        "installer_sha1": null,
         "installer_size": 6439414,
         "latest": false,
         "mc_version": "1.20.4",
@@ -2149,7 +2149,7 @@
         "version": "20.4.233"
     },
     {
-        "installer_sha1": "cda6ab5285bffd5a4ffe47a532ad19da311881bc",
+        "installer_sha1": null,
         "installer_size": 6446070,
         "latest": false,
         "mc_version": "1.20.4",
