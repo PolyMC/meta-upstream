@@ -106,7 +106,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -315,7 +315,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -524,7 +524,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -733,7 +733,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -942,7 +942,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -1151,7 +1151,7 @@
                     "path": "org/ow2/asm/asm/9.3/asm-9.3.jar",
                     "sha1": "8e6300ef51c1d801a7ed62d07cd221aca3a90640",
                     "size": 122176,
-                    "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.3/asm-9.3.jar"
+                    "url": "https://libraries.minecraft.net/org/ow2/asm/asm/9.3/asm-9.3.jar"
                 }
             },
             "name": "org.ow2.asm:asm:9.3@jar"
@@ -1976,7 +1976,7 @@
                     "path": "org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar",
                     "sha1": "7cf2726fdcfbc8610f9a71fb3ed639871f315340",
                     "size": 64579,
-                    "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                    "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
                 }
             },
             "name": "org.slf4j:slf4j-api:2.0.9@jar"

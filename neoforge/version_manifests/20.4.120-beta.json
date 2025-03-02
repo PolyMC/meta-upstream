@@ -416,7 +416,7 @@
                     "path": "org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar",
                     "sha1": "7cf2726fdcfbc8610f9a71fb3ed639871f315340",
                     "size": 64579,
-                    "url": "https://maven.neoforged.net/releases/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                    "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
                 }
             },
             "name": "org.slf4j:slf4j-api:2.0.9@jar"
@@ -632,7 +632,7 @@
         }
     ],
     "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
-    "releaseTime": "2024-01-21T16:57:09.732028457",
-    "time": "2024-01-21T16:57:09.732028457",
+    "releaseTime": "2024-07-02T14:41:04.076715865",
+    "time": "2024-07-02T14:41:04.076715865",
     "type": "release"
 }
