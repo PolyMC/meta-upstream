@@ -6573,6 +6573,13 @@
         "version": "21.4.123"
     },
     {
+        "installer_sha1": "930eb9df60cad8dd6e2fbdc31ad91f93bd06322e",
+        "installer_size": 7304996,
+        "latest": true,
+        "mc_version": "1.21.5",
+        "version": "21.5.0-beta"
+    },
+    {
         "installer_sha1": "804ef87d7bb1d1be824afa7d6094ce086b49bf74",
         "installer_size": 5923567,
         "latest": false,
