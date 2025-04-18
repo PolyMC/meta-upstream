@@ -520,9 +520,16 @@
     {
         "installer_sha1": "ce818a17f4bf2f5fbf6e4cd934aa0a294867579a",
         "installer_size": 8235710,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.20.2",
         "version": "20.2.88"
+    },
+    {
+        "installer_sha1": "c0a43f549f1fe5e922510a1f5e09cf8b8acb45f4",
+        "installer_size": 8156291,
+        "latest": true,
+        "mc_version": "1.20.2",
+        "version": "20.2.89"
     },
     {
         "installer_sha1": "a1d54ffd23595767673a37128c3ced2da92c679a",
