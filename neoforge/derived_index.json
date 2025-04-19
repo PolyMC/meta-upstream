@@ -2,9 +2,16 @@
     {
         "installer_sha1": "510ad25b2d2679efc88d3c7c913bb49001fe7f14",
         "installer_size": 7388223,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.25w14craftmine",
         "version": "0.25w14craftmine.3-beta"
+    },
+    {
+        "installer_sha1": "d85e94c62d6c6518f8a93541c22cb66c3301b39d",
+        "installer_size": 7376542,
+        "latest": true,
+        "mc_version": "1.25w14craftmine",
+        "version": "0.25w14craftmine.4-beta"
     },
     {
         "installer_sha1": "c14150ff3a5cd1f96318ab73337773f98f47a2aa",
