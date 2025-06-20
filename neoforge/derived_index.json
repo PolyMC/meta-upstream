@@ -5693,9 +5693,16 @@
     {
         "installer_sha1": "b6ba50b1a5233fb5bd80288a6e5af91974ae915f",
         "installer_size": 6923792,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.1",
         "version": "21.1.180"
+    },
+    {
+        "installer_sha1": "88f1aa50268a18b3c12b246bf3689d079b2a43b8",
+        "installer_size": 6923787,
+        "latest": true,
+        "mc_version": "1.21.1",
+        "version": "21.1.181"
     },
     {
         "installer_sha1": "2f2d467eb65106eb41d8a422c4abce4eea1f246a",
@@ -6253,9 +6260,16 @@
     {
         "installer_sha1": "1c1441be6056da1a01a56ea7ea0b965e0ff8a5f4",
         "installer_size": 6967269,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.3",
         "version": "21.3.77"
+    },
+    {
+        "installer_sha1": "7da3d95cce5a20e8fa72b7e49ee00e11d24aecdf",
+        "installer_size": 6967250,
+        "latest": true,
+        "mc_version": "1.21.3",
+        "version": "21.3.78"
     },
     {
         "installer_sha1": "134ea6b06a18f60b88d969bb2218e260890bf97f",
@@ -7205,9 +7219,16 @@
     {
         "installer_sha1": "4f1c06e4766327767a98d489db4a80167d238647",
         "installer_size": 7204511,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.4",
         "version": "21.4.138"
+    },
+    {
+        "installer_sha1": "ee377b3846a1df19ccdf42625ab7c43b8fc1df13",
+        "installer_size": 7204509,
+        "latest": true,
+        "mc_version": "1.21.4",
+        "version": "21.4.139"
     },
     {
         "installer_sha1": "930eb9df60cad8dd6e2fbdc31ad91f93bd06322e",
