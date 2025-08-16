@@ -8731,9 +8731,16 @@
     {
         "installer_sha1": "afb26cd7cfbab18600551e2241368fe65a51221f",
         "installer_size": 6158744,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.8",
         "version": "21.8.31"
+    },
+    {
+        "installer_sha1": "0a5fa91f27a5ee057a471285be8ecef2e66cdf06",
+        "installer_size": 6159370,
+        "latest": true,
+        "mc_version": "1.21.8",
+        "version": "21.8.32"
     },
     {
         "installer_sha1": "804ef87d7bb1d1be824afa7d6094ce086b49bf74",
