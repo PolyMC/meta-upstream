@@ -10010,6 +10010,13 @@
         "version": "26.1.0.0-alpha.1+snapshot-1"
     },
     {
+        "installer_sha1": "ef18ee8ea89795d0e16570532a906acab60fb09d",
+        "installer_size": 11101157,
+        "latest": false,
+        "mc_version": "1.26.1",
+        "version": "26.1.0.0-alpha.10+snapshot-6"
+    },
+    {
         "installer_sha1": "a1e2eb1d1c73005146c020bd0ba043213c9a60e7",
         "installer_size": 11006692,
         "latest": false,
