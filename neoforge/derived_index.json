@@ -9471,8 +9471,8 @@
         "version": "21.10.25-beta"
     },
     {
-        "installer_sha1": null,
-        "installer_size": 6344704,
+        "installer_sha1": "27f67ee25c0a9377f8f71a35af4b90c072f2fb85",
+        "installer_size": 6348698,
         "latest": false,
         "mc_version": "1.21.10",
         "version": "21.10.28-beta"
