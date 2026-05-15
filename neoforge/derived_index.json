@@ -6099,9 +6099,16 @@
     {
         "installer_sha1": "7b6f8512bb5f6a2c5d83e3385016da9813d3589b",
         "installer_size": 6961796,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.1",
         "version": "21.1.229"
+    },
+    {
+        "installer_sha1": "edccc1ec906cc3df17324a31dd1990b24a39558e",
+        "installer_size": 6961947,
+        "latest": true,
+        "mc_version": "1.21.1",
+        "version": "21.1.230"
     },
     {
         "installer_sha1": "2f2d467eb65106eb41d8a422c4abce4eea1f246a",
@@ -10817,9 +10824,23 @@
     {
         "installer_sha1": "8b9804806f06dba7ca8015eeafaa308cf04349bf",
         "installer_size": 11242175,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.26.1",
         "version": "26.1.2.52-beta"
+    },
+    {
+        "installer_sha1": "992a42000fdb82b8ef5b46754c40c0240d46604a",
+        "installer_size": 11240696,
+        "latest": false,
+        "mc_version": "1.26.1",
+        "version": "26.1.2.53-beta"
+    },
+    {
+        "installer_sha1": "9bccc8e0a9633dc489c7c2d0d978c1374720f553",
+        "installer_size": 11242667,
+        "latest": true,
+        "mc_version": "1.26.1",
+        "version": "26.1.2.54-beta"
     },
     {
         "installer_sha1": "804ef87d7bb1d1be824afa7d6094ce086b49bf74",
