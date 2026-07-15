@@ -6869,9 +6869,16 @@
     {
         "installer_sha1": "83d2474ed4a0df8aeb38496910ac9a123c872b67",
         "installer_size": 4232072,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.11",
         "version": "21.11.42"
+    },
+    {
+        "installer_sha1": "193f7b40b9ee1aa9b371cca9b4da471d0d3f75c4",
+        "installer_size": 4233166,
+        "latest": true,
+        "mc_version": "1.21.11",
+        "version": "21.11.44"
     },
     {
         "installer_sha1": "2f2d467eb65106eb41d8a422c4abce4eea1f246a",
@@ -7562,9 +7569,16 @@
     {
         "installer_sha1": "f17627cddae2a28ddb437b1b15c7e1cdeef92413",
         "installer_size": 6984963,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.3",
         "version": "21.3.96"
+    },
+    {
+        "installer_sha1": "1c0037d68055998b8359da8654f66ced8fdc5d0f",
+        "installer_size": 6986159,
+        "latest": true,
+        "mc_version": "1.21.3",
+        "version": "21.3.97"
     },
     {
         "installer_sha1": "134ea6b06a18f60b88d969bb2218e260890bf97f",
@@ -9326,9 +9340,16 @@
     {
         "installer_sha1": "d1758591babacfd64cb04a1b03b1c4b583869404",
         "installer_size": 7349683,
-        "latest": true,
+        "latest": false,
         "mc_version": "1.21.5",
         "version": "21.5.97"
+    },
+    {
+        "installer_sha1": "3d94a3650264fcd812798595004c235fedb2cdf7",
+        "installer_size": 7350693,
+        "latest": true,
+        "mc_version": "1.21.5",
+        "version": "21.5.98"
     },
     {
         "installer_sha1": "245f70d4c418e7f78b91601f4785e1bb68d34489",
@@ -11062,9 +11083,16 @@
     {
         "installer_sha1": "87640a29ef3ee7b249c6ed008ec3d20e73e43f37",
         "installer_size": 11257885,
-        "latest": true,
+        "latest": false,
         "mc_version": "26.1.2",
         "version": "26.1.2.80"
+    },
+    {
+        "installer_sha1": "c02f791556bec7afc78a312689a59773478de986",
+        "installer_size": 11257867,
+        "latest": true,
+        "mc_version": "26.1.2",
+        "version": "26.1.2.81"
     },
     {
         "installer_sha1": "e66b28ccf38a5bfaa8931aeb7013aa17c0751549",
