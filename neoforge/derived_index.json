@@ -11615,9 +11615,16 @@
     {
         "installer_sha1": "cabc4ecd3c2eccce92d1f4c048d643b16eea584e",
         "installer_size": 3604305,
-        "latest": true,
+        "latest": false,
         "mc_version": "26.2",
         "version": "26.2.0.59"
+    },
+    {
+        "installer_sha1": "5966d1ff66be6fdba691f82bc1971224c9c5b05a",
+        "installer_size": 3604144,
+        "latest": true,
+        "mc_version": "26.2",
+        "version": "26.2.0.60"
     },
     {
         "installer_sha1": "804ef87d7bb1d1be824afa7d6094ce086b49bf74",
