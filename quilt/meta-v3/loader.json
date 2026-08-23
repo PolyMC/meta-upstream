@@ -288,6 +288,18 @@
         "version": "0.29.0-beta.6"
     },
     {
+        "build": 5,
+        "file_size": 2538543,
+        "hashes": {
+            "sha1": "11ca2e2bbd54cc332415f9b18fc105991db51fb3",
+            "sha256": "f52540233fb4e84df969322528deed04dd7fbf4c48c3ef4a652727c5a2f457d7",
+            "sha512": "fe6e5d9d7498752b9c0c873ac733a76197f205983f83944b34256fb0045bed2f6f53e97aea4f20cad6077a4c29f629204b776aa0a4128caf18409eb2c344bca1"
+        },
+        "maven": "org.quiltmc:quilt-loader:0.29.0-beta.5",
+        "separator": ".",
+        "version": "0.29.0-beta.5"
+    },
+    {
         "build": 4,
         "file_size": 2538096,
         "hashes": {
