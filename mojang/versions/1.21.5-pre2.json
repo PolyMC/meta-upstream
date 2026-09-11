@@ -155,10 +155,10 @@
     },
     "assetIndex": {
         "id": "24",
-        "sha1": "ac2a52abe81370386b608c078fa5bd703c63e859",
+        "sha1": "c0dd20d64a608ac834a4bde3c0de075721595068",
         "size": 483183,
-        "totalSize": 426714294,
-        "url": "https:\/\/piston-meta.mojang.com\/v1\/packages\/ac2a52abe81370386b608c078fa5bd703c63e859\/24.json"
+        "totalSize": 426720429,
+        "url": "https:\/\/piston-meta.mojang.com\/v1\/packages\/c0dd20d64a608ac834a4bde3c0de075721595068\/24.json"
     },
     "assets": "24",
     "complianceLevel": 1,
