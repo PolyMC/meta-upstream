@@ -2005,6 +2005,18 @@
     },
     {
         "build": 1,
+        "file_size": 1806938,
+        "hashes": {
+            "sha1": "859d25af2f2e4f8561e1bafae3a689c702aad6f9",
+            "sha256": "c78d7f07ce427d014aad707b0d8ec0884be18a746fe71fdc69ac9481b7385481",
+            "sha512": "7dfac973b869ea0bfbfd2b914e40582676d8b43d0e3022d6f8b6409045814233e2f552188854f0de36f74bbf4da42d0a733bea60adea4f3b0fb0e6b050770adf"
+        },
+        "maven": "org.quiltmc:quilt-loader:0.18.6-beta.1",
+        "separator": ".",
+        "version": "0.18.6-beta.1"
+    },
+    {
+        "build": 1,
         "file_size": 1807130,
         "hashes": {
             "sha1": "99a25f67bd609c7eedaa672cde3dfd43b3855490",
