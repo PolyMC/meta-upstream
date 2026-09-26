@@ -12098,9 +12098,16 @@
     {
         "installer_sha1": "799d604ae6b0d6263773e75ca4e392d8998d3620",
         "installer_size": 3690078,
-        "latest": true,
+        "latest": false,
         "mc_version": "26.3",
         "version": "26.3.0.22-beta"
+    },
+    {
+        "installer_sha1": "867721408a77b375159cc5cc273e3a85a2c16dfb",
+        "installer_size": 3690080,
+        "latest": true,
+        "mc_version": "26.3",
+        "version": "26.3.0.23-beta"
     },
     {
         "installer_sha1": "804ef87d7bb1d1be824afa7d6094ce086b49bf74",
